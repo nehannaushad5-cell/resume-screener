@@ -1,0 +1,19 @@
+{
+  "title": "Junior Data Analyst",
+  "required_skills": [
+    "Python",
+    "SQL",
+    "Excel",
+    "Power BI",
+    "Pandas"
+  ],
+  "preferred_skills": [
+    "Machine Learning",
+    "Tableau",
+    "Statistics",
+    "AWS"
+  ],
+  "min_experience_years": 2.0,
+  "experience_description": "0\u20131 years / entry level",
+  "education_requirement": "Bachelor\u2019s or Master\u2019s degree in a relevant field"
+}
